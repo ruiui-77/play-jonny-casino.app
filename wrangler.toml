@@ -1,0 +1,11 @@
+name = "play-jonny-casino-app"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=play-jonny-casino.app"
+HMAC_KEY = "87f4b47fdc63f2452b47f5181471819b0b10db35f8403aaf4beeed33cee12a0b"
+COOKIE_NAME = "o7k"
+PLAY_PATH = "start"
+BUTTON_ID = "pc5f8a6efcfc2b2530ba15e0dffd737e9"
+GATE_SALT = "42aaf158a44b9432"
